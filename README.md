@@ -24,7 +24,7 @@
 
 <div align=center>
 <a href="https://github.com/Uraraka-Chan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
 </a>
 <a href="https://github.com/Uraraka-Chan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical" />
