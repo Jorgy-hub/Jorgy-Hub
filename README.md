@@ -1,5 +1,5 @@
 ## ⋆˚🌺⃤ Uraraka-Chan
-<div align=left style="font-size:12px">
+<div align=left style="font-size:11px;">
     <br>
     <p>
         <strong>
