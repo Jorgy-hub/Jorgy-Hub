@@ -21,15 +21,11 @@
 ------
 
 <a href="https://github.com/Uraraka-Chan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Uraraka-Chan&repo=github-readme-stats" />
+  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Uraraka-Chan&show_icons=true&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/Uraraka-Chan/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Uraraka-Chan&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uraraka-Chan&show_icons=true&theme=radical&layout=compact)](https://github.com/Uraraka-Chan/github-readme-stats)
-
-[![Uraraka-Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical)](https://github.com/Uraraka-Chan/github-readme-stats)
 
 
 
