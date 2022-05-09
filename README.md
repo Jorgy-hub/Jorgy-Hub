@@ -3,8 +3,7 @@
     <br>
     <p>
         <strong>
-            A Mechatronics Engineering Student & software developer trying to learn a bit about everything, I entered the University 2 years ago and decided to study Mechatronics for getting to know more about Machines and Robots, I consider myself really good and efficient at what I do.<br><br>
-            Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
+            Mechatronics Engineering Student, Front-End Engineer, Problem Solver, Freelancer, and Digital Designer.<br><br>
             I specialize in FRONT-END Development, I have lot of experience working with HTML and React. Good in Mathematical Algorithms, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
             Self and quick learner, self-motivated, and social, community leader.
             </strong>
