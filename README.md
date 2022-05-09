@@ -1,4 +1,5 @@
 ## ⋆˚🌺⃤ Uraraka-Chan
+<div align=center>
 <div align=left style="font-size:11px;">
     <br>
     <p>
@@ -16,6 +17,7 @@
         <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
         <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
     </ul>
+</div>
 </div>
 
 ------
