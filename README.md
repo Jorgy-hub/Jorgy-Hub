@@ -19,6 +19,7 @@
 </div>
 
 ------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uraraka-Chan&show_icons=true&theme=radical&layout=compact)](https://github.com/Uraraka-Chan/github-readme-stats)
 
 [![Uraraka-Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical)](https://github.com/Uraraka-Chan/github-readme-stats)
 
