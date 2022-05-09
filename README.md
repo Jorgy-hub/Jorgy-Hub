@@ -20,9 +20,7 @@
 
 ------
 
-<a href="https://github.com/Uraraka-Chan/github-readme-stats">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Uraraka-Chan&show_icons=true&theme=radical" />
-</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/Uraraka-Chan/github-readme-stats">
