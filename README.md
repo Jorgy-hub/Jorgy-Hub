@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Uraraka-Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uraraka-Chan)](https://github.com/Uraraka-Chan/github-readme-stats)
+[![Uraraka-Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical)](https://github.com/Uraraka-Chan/github-readme-stats)
 
 <i>Follow me around the web:</i><br>
 
