@@ -26,6 +26,9 @@
 <a href="https://github.com/Uraraka-Chan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical" />
 </a>
+<a href="https://github.com/Uraraka-Chan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical" />
+</a>
 
 
 
