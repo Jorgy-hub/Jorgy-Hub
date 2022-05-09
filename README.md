@@ -18,6 +18,9 @@
         <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
     </ul>
 </div>
+
+------
+
 [![Uraraka-Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical)](https://github.com/Uraraka-Chan/github-readme-stats)
 
 
