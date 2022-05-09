@@ -1,6 +1,5 @@
 ## ⋆˚🌺⃤ Uraraka-Chan
-<div>
-<div align=left>
+<div align=left style="font-size:12px">
     <br>
     <p>
         <strong>
@@ -18,7 +17,6 @@
         <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
         <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
     </ul>
-</div>
 </div>
 [![Uraraka-Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical)](https://github.com/Uraraka-Chan/github-readme-stats)
 
