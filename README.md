@@ -24,10 +24,10 @@
 
 <div align=center>
     <a href="https://github.com/Uraraka-Chan/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uraraka-Chan&theme=radical&layout=compact" />
+    <img align="center" height:"300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uraraka-Chan&theme=radical&layout=compact" />
     </a>
     <a href="https://github.com/Uraraka-Chan/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical" />
+        <img align="center" height:"300px" src="https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical" />
     </a>
 </div>
 
