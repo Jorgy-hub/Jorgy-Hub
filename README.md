@@ -25,15 +25,6 @@
 
 ------
 
-<div align=center>
-    <a href="https://github.com/Uraraka-Chan/github-readme-stats">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uraraka-Chan&theme=radical&layout=compact&border_radius=25&hide_border=true" />
-    </a>
-    <a href="https://github.com/Uraraka-Chan/github-readme-stats">
-        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical&border_radius=25&hide_border=true" />
-    </a>
-</div>
-
 ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -57,3 +48,14 @@
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+------
+
+<div align=center>
+    <a href="https://github.com/Uraraka-Chan/github-readme-stats">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uraraka-Chan&theme=radical&layout=compact&border_radius=25&hide_border=true" />
+    </a>
+    <a href="https://github.com/Uraraka-Chan/github-readme-stats">
+        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Uraraka-Chan&show_icons=true&theme=radical&border_radius=25&hide_border=true" />
+    </a>
+</div>
